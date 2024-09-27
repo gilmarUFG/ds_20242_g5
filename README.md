@@ -39,4 +39,5 @@ Este projeto será desenvolvido pelos componentes do grupo 5:
 | ---------- | ---------- | ---------- | ---------- |
 | 202201717 | Vitor Castanheira | cmVitor | [cmVitor](https://github.com/cmVitor)|
 | 201905543 | Mateus da Silveira | MateusSilver | [MateusSilver](https://github.com/MateusSilver) |
+| 202201712 | Samuel José Evangelista Alves | SamuelJEAlves | [SamuelJEAlves](https://github.com/SamuelJEAlves) |
 

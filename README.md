@@ -38,4 +38,5 @@ Este projeto será desenvolvido pelos componentes do grupo 5:
 | Matrícula | Nome | Usuário | Git |
 | ---------- | ---------- | ---------- | ---------- |
 | 202201717 | Vitor Castanheira | cmVitor | [cmVitor](https://github.com/cmVitor)|
+| 201905543 | Mateus da Silveira | MateusSilver | [MateusSilver](https://github.com/MateusSilver) |
 
